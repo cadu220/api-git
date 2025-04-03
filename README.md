@@ -1,5 +1,5 @@
-# Aplicação template
+Tela de consulta:
+![image](https://github.com/user-attachments/assets/ab5ddd76-bc01-4c2f-8852-580d6ed6a5a1)
 
-Esta é uma aplicação gerada pelo template [React básico da Dev Samurai](https://github.com/DevSamurai/cra-template-basic).
-
-Depois que criar a sua aplicação, sobrescreva este arquivo README.md utilizando as [melhores práticas](https://www.makeareadme.com/) para isso.
+Retorno da API:
+![image](https://github.com/user-attachments/assets/ed109c7b-02e0-4e5d-9d58-cdad78bd7a2a)
